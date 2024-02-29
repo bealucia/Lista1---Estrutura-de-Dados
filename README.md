@@ -1,6 +1,5 @@
-# Lista1---Estrutura-de-Dados
+# Estrutura de Dados - 3º período
 
-
-Calculo IMC (Índice de Massa Corpórea)
-
-Anos Bissextos 
+## lista 1 ( if )
+. Calculo IMC (Índice de Massa Corpórea)
+. Anos Bissextos 
