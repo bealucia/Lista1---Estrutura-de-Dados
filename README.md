@@ -46,3 +46,5 @@ Digite a ano para verificar se é bissexto: 2099
 2099 não é um ano bissexto.
 ```
 
+* [Beatriz Lúcia Teixeira de Souza](https://github.com/bealucia)
+
