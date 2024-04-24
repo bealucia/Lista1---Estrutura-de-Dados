@@ -1,5 +1,8 @@
 # Estrutura de Dados - 3º período
 
+* [Beatriz Lúcia Teixeira de Souza](https://github.com/bealucia)
+* Matrícula = 231704006
+
 ## lista 1 ( if )
 * <h4> Cálculo IMC (Índice de Massa Corpórea)</h4>
 Exemplos do funcionamento do programa:
@@ -50,5 +53,4 @@ Digite a ano para verificar se é bissexto: 2099
 
 Código referente a segunda parte do curso.
 
-* [Beatriz Lúcia Teixeira de Souza](https://github.com/bealucia)
 
