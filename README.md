@@ -46,5 +46,9 @@ Digite a ano para verificar se é bissexto: 2099
 2099 não é um ano bissexto.
 ```
 
+## LISTA DUPLAMENTE ENCADEADA 
+
+Código referente a segunda parte do curso.
+
 * [Beatriz Lúcia Teixeira de Souza](https://github.com/bealucia)
 
